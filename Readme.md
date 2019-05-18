@@ -1,4 +1,4 @@
-#Programa para Arduino para la bicicleta Fiido D1/D2
+# Programa para Arduino para la bicicleta Fiido D1/D2
 (Versión sin acelerador)
 
 Desarrollado por ciberus partiendo del programa incial de legalizacion del
