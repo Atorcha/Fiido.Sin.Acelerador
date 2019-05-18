@@ -1,0 +1,1 @@
+Versión sin acelerador. 
