@@ -1,12 +1,10 @@
 # Programa para Arduino para la bicicleta Fiido D1/D2
 # (Versión sin acelerador)
 
-Desarrollado por ciberus partiendo del programa incial de legalizacion del
-acelerador de Fulano, MIL GRACIAS por su ayuda :-) tambien gracias a David
-por su ayuda con las innumerables pruebas del programa, Dca por su croquis de
-conexiones con los cables de los conectores, Pablo y Fulano por los manuales y
-en general a todos los integrantes del grupo de desarrollo que sin su granito
-de arena no hubiera sido posible llegar hasta aqui.
+Permite quitar el acelerador en la bicicleta y poder funcionar exclusivamente con pedales hasta los 25 km/h y con distintos niveles de asistencia, incorpora también ayuda al arranque en cuesta y autoprogresivo. 
+
+Desarrollado partiendo del programa incial de legalizacion del
+acelerador de Fulano, MIL GRACIAS por su ayuda :-)
 
 Ayuda, sugerencias, preguntas, etc. en el grupo Fiido telegram:
 http://t.me/FiidoD1Spain
